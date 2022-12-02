@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Introducation
+# 🥂 Into the ClubDrop
 
 Let's discover **Docusaurus in less than 1 minutes**.
 
