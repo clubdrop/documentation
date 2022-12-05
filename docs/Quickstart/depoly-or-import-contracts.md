@@ -55,3 +55,12 @@ module.exports = {
   ],
 };
 ```
+
+<details>
+  <summary>How are <code>remark-math</code> and <code>rehype-katex</code> different?</summary>
+
+In case you are wondering how Remark and Rehype are different, here is a good example. `remark-math` operates on the Markdown AST, where it sees text like `$...$`, and all it does is transform that to the JSX `<span class="math math-inline">...</span>` without doing too much with the content. This decouples the extraction of math formulae from their rendering, which means you can swap $\KaTeX$ out with other math renderers, like MathJax (with [`rehype-mathjax`](https://github.com/remarkjs/remark-math/tree/main/packages/rehype-mathjax)), just by replacing the Rehype plugin.
+
+Next, the `rehype-katex` operates on the Hypertext AST where everything has been converted to HTML-like tags already. It traverses all the elements with `math` class and uses $\KaTeX$ to parse and render the content to actual HTML.
+
+</details>
