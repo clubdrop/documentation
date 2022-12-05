@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 ---
 
-# ⛳Create a Club
+# ⛳Create a page
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
