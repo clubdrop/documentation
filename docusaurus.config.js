@@ -61,7 +61,7 @@ const config = {
       navbar: {
         title: 'ClubDrop',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'hi,clubdrop',
           src: 'img/logo.svg',
         },
         items: [
