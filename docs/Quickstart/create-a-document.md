@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Deploy/import smart contracts
 
 Documents are **groups of pages** connected through:
 
