@@ -2,7 +2,9 @@
 sidebar_position: 2
 ---
 
-# Deploy/import smart contracts
+#🎨Deploy/import contracts
+
+start creative
 
 Documents are **groups of pages** connected through:
 
