@@ -80,13 +80,13 @@ const config = {
         ],
       },
       algolia: {
-        // The application ID provided by Algolia
-        appId: 'YOUR_APP_ID',
+        // The application ID provided by Algolia $YOUR_APP_ID
+        appId: '30QCQR317O',
   
-        // Public API key: it is safe to commit it
-        apiKey: 'YOUR_SEARCH_API_KEY',
-  
-        indexName: 'YOUR_INDEX_NAME',
+        // Public API key: it is safe to commit it; $YOUR_SEARCH_API_KEY
+        apiKey: '5aff43586b8b074e22997f5673305208',
+        //$YOUR_INDEX_NAME
+        indexName: 'Clubdrop',
   
         // Optional: see doc section below
         contextualSearch: true,
