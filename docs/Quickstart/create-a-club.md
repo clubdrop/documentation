@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # ⛳Create a Club
-
+This is <Highlight color="#1877F2">Facebook blue</Highlight> !
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 - `src/pages/index.js` → `localhost:3000/`
