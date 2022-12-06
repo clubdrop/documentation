@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# ⛳Create a Club
+# ⛳Build a Club
 
 :::note
 
