@@ -145,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 2022 Clubdrop.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Clubdrop.`,
       },
       prism: {
         theme: lightCodeTheme,
