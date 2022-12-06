@@ -6,7 +6,7 @@ sidebar_position: 1
 Here you will find guides, references and resources that will help you lanuch **web3** project, no previous blockchain experience needed.
 :::
 
-Clubdrop is a <code>no-code</code> NFT infrastructure platform that allows you to build web3 functionality into your applications. Bring your NFT application to market in minutes instead of months. With few steps for managing and connecting all your program's relationships and interactions with customers and potential customers.
+⚡️ Clubdrop is a <code>no-code</code> NFT infrastructure platform that allows you to build web3 functionality into your applications. Bring your NFT application to market in minutes instead of months. With few steps for managing and connecting all your program's relationships and interactions with customers and potential customers.
 
 We provide workflows to speed up your program, including:
 
@@ -17,7 +17,22 @@ We provide workflows to speed up your program, including:
 ✅ **Dashboards** to manage your club events, contracts setting, team permissions, revenue streams, and data analytics.
 
 
-## Getting Started
+## Implementable use cases
+
+| Features       | NFT       | Token     |
+| -----------    | --------- | ----------|
+| Standard       | ✅        | ✅       |
+| Drop           | ✅        | ✅       |
+| Lazy mint      | ✅        | ❌       |
+| Snapshot       | ✅        | ✅       |
+| Vote           | ❌        | ✅       |
+| Royalties      | ✅        | ❌       |
+| Activity Phase | ✅        | ✅       |
+| White-list     | ✅        | ✅       |
+| Split          | ❌        | ✅       |
+| Collection     | ✅        | ❌       |
+| Delayed Reveal | ✅        | ❌       |
+
 
 Get started by **creating a new site**.
 
@@ -56,3 +71,10 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+
+
+```mdx-code-block
+import {PlaygroundCardsRow} from '@site/src/components/Playground';
+
+<PlaygroundCardsRow />
+```
