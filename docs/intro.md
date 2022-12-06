@@ -10,11 +10,11 @@ Here you will find guides, references and resources that will help you lanuch **
 
 We provide workflows to speed up your program, including:
 
-✅ **Club-sites** host your free landing page with mint button.
+- **Club-sites** host your free landing page with mint button.
 
-✅ **Dropkits** creat the custom contracts of your web3 functionality.
+- **Dropkits** creat the custom contracts of your web3 functionality.
 
-✅ **Dashboards** to manage your club events, contracts setting, team permissions, revenue streams, and data analytics.
+- **Dashboards** to manage your club events, contracts setting, team permissions, revenue streams, and data analytics.
 
 
 ## Implementable use cases
@@ -71,10 +71,3 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
-
-
-```mdx-code-block
-import {PlaygroundCardsRow} from '@site/src/components/Playground';
-
-<PlaygroundCardsRow />
-```
