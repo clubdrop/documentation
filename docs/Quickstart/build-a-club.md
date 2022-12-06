@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # 🥂 Into the ClubDrop
 
+:::tip RDR2
+~~The work around is to change the system date to 2022.~~
+:::
+
 Welcome to the clubdrop! Here you will find guides, references and resources that will help you lanuch **web3** project.
 
 Clubdrop is a <code>no-code</code> NFT infrastructure platform that allows you to build web3 functionality into your applications. Bring your NFT application to market in minutes instead of months. With few steps for managing and connecting all your program's relationships and interactions with customers and potential customers.
@@ -15,14 +19,6 @@ We provide workflows to speed up your development, including:
 ✅ **Smart Contracts** creat the foundation of your web3 functionality.
 
 ✅ **Dashboards** to manage your club events, contracts setting, team permissions, revenue streams, and data analytics.
-
-
-
-:::tip RDR2
-~~The work around is to change the system date to 2022.~~
-:::
-
-
 
 :::note
 
