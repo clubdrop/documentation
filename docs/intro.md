@@ -2,8 +2,9 @@
 sidebar_position: 1
 ---
 # 🥂 Into the ClubDrop
-
+:::tip RDR2
 Welcome to the clubdrop! Here you will find guides, references and resources that will help you lanuch **web3** project, no previous blockchain experience needed.
+:::
 
 Clubdrop is a <code>no-code</code> NFT infrastructure platform that allows you to build web3 functionality into your applications. Bring your NFT application to market in minutes instead of months. With few steps for managing and connecting all your program's relationships and interactions with customers and potential customers.
 
