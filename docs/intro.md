@@ -2,17 +2,18 @@
 sidebar_position: 1
 ---
 
-# 🥂 Into the ClubDrop
+Welcome to the clubdrop! Here you will find guides, references and resources that will help you lanuch **web3** project, no previous blockchain experience needed.
 
-Welcome to the Clubdrop! Here you will find guides, references and resources that will help you quickly lanuch **web3** project, no previous blockchain experience needed.
-
-Clubdrop is a <code>no-code</code> platform that allows you to build web3 functionality into your applications.
+Clubdrop is a <code>no-code</code> NFT infrastructure platform that allows you to build web3 functionality into your applications. Bring your NFT application to market in minutes instead of months. With few steps for managing and connecting all your program's relationships and interactions with customers and potential customers.
 
 We provide workflows to speed up your development, including:
 
-Contracts you can use to build the foundation of your web3 functionality.
-SDKs to create applications that interact with the blockchain in your favorite languages.
-Dashboards to manage your contract settings, team permissions, revenue streams, and analytics.
+✅ **Site** host your free landing page with mint button.
+
+✅ **Smart Contracts** creat the foundation of your web3 functionality.
+
+✅ **Dashboards** to manage your club events, contracts setting, team permissions, revenue streams, and data analytics.
+
 
 ## Getting Started
 
