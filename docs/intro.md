@@ -8,6 +8,8 @@ Here you will find guides, references and resources that will help you lanuch **
 
 ⚡️ Clubdrop is a <code>no-code</code> NFT infrastructure platform that allows you to build web3 functionality into your applications. Bring your NFT application to market in minutes instead of months. With few steps for managing and connecting all your program's relationships and interactions with customers and potential customers.
 
+As a nft service provider, we are focusing on develop framework and providing true ownership of smart contracts by dropkit which a tool that simplify the process of launching NFT to the point where grandmothers can use it. Anyone or brands can quickly build web3 applications through clubdrop and unlock the keys to the new economy.
+
 We provide workflows to speed up your program, including:
 
 - **Club-sites** host your free landing page with mint button.
@@ -75,3 +77,5 @@ Clubline enable powered messaging where communities and projects can connect, bu
 ClubDrop continues to provide an open, shared infrastructure for brand and program teams to eliminate friction, increase conversions, achieve scale, reduce costs, and evolve marketing networks from a user-attention-based business model to a member-based business model.
 
 Any brand or program can start their Club promotions and Loyalty Rewards programs with ClubDrop, enabling frictionless Memberships, accurate NFT special visits, and high-converting event engagement.
+
+
