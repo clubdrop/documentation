@@ -14,7 +14,7 @@ We provide workflows to speed up your program, including:
 
 - **Dropkits** creat the custom contracts of your web3 functionality.
 
-- **Dashboards** to manage your club events, contracts setting, team permissions, revenue streams, and data analytics.
+- **Dashboards** to manage your club campaigns, contracts setting, team permissions, revenue streams, and data analytics.
 
 
 ## Implementable use cases
@@ -55,19 +55,19 @@ The 1st step you need to get a new club, the system offering a free sub domain f
 </details>
 
 <details>
-  <summary>🐣 Contracts</summary>
+  <summary>🐣 Deploy contracts</summary>
 
 The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
 </details>
 
 <details>
-  <summary>✨ Quest</summary>
+  <summary>✨ Lanuch quest</summary>
 
 The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
 </details>
 
 <details>
-  <summary>🐣 Growth</summary>
+  <summary>📈 Connect community</summary>
 
 The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
 </details>
