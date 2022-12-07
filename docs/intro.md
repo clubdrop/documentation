@@ -46,6 +46,13 @@ We provide workflows to speed up your program, including:
 
 ## Get started by **creating a new Club**.
 
+<details>
+  <summary>Build a new club</summary>
+
+The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup content 'contracts', 'events', and more.
+</details>
+
+
 ## 
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
