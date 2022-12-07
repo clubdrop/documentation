@@ -51,7 +51,25 @@ Hi, explorer, start our web3 adventure 🌻:
 <details>
   <summary>🔥 Build a new club</summary>
 
-The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup content 'contracts', 'events', and more.
+The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
+</details>
+
+<details>
+  <summary>🐣 Contracts</summary>
+
+The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
+</details>
+
+<details>
+  <summary>🐣 Quest</summary>
+
+The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
+</details>
+
+<details>
+  <summary>🐣 Growth</summary>
+
+The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
 </details>
 
 
