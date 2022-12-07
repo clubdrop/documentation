@@ -56,7 +56,7 @@ Clubline enable powered messaging where communities and projects can connect, bu
 - Get real-time information feedback through Web3 CRM for better analysis of customer behavior.
 
 
-## Features 
+## Features supported
 
 | Features       | NFT       | Token     |
 | -----------    | --------- | ----------|
