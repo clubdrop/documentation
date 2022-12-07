@@ -44,10 +44,10 @@ We provide workflows to speed up your program, including:
 | Delayed Reveal | ✅        | ❌       |
 
 
-## Get started by **creating a new Club**.
+## Get started
 
 <details>
-  <summary>Build a new club</summary>
+  <summary>🔥 Build a new club</summary>
 
 The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup content 'contracts', 'events', and more.
 </details>
