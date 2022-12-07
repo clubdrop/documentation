@@ -19,6 +19,16 @@ We provide workflows to speed up your program, including:
 
 ## Implementable use cases
 
+- Sell NFT through the Club you build
+- Create smart contracts with Dropkit to offer exclusive experiences, membership credentials or early access through tokenized commerce.
+- Publish marketing campaigns or missions through Clubline to get closer to your customers.
+- Create Club communities based on NFT ownership to maintain and grow your memberships
+- Increase conversion from "users" to "members"
+- Get real-time information feedback through Web3 CRM for better analysis of customer behavior.
+
+
+## Features 
+
 | Features       | NFT       | Token     |
 | -----------    | --------- | ----------|
 | Standard       | ✅        | ✅       |
@@ -34,7 +44,9 @@ We provide workflows to speed up your program, including:
 | Delayed Reveal | ✅        | ❌       |
 
 
-Get started by **creating a new site**.
+## Get started by **creating a new Club**.
+
+## 
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
