@@ -48,13 +48,12 @@ Clubline enable powered messaging where communities and projects can connect, bu
 
 ## Implementable use cases
 
-- Sell NFT through the Club you build
+- Sell NFT through the Club
 - Create smart contracts with Dropkit to offer exclusive experiences, membership credentials or early access through tokenized commerce.
-- Publish marketing campaigns or missions through Clubline to get closer to your customers.
-- Create Club communities based on NFT ownership to maintain and grow your memberships
-- Increase conversion from "users" to "members"
-- Get real-time information feedback through Web3 CRM for better analysis of customer behavior.
-
+- Publish marketing campaigns or rewards to get closer to your customers.
+- Create Club communities based on NFT ownership to maintain and grow your memberships.
+- Increase conversion from "users" to "members".
+- Get real-time information feedback through web3 CRM for better analysis of users behavior.
 
 ## Features supported
 
