@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🎨Deploy/import contracts
+# 🎨Deploy contracts
 
 start creative
 
