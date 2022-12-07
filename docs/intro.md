@@ -46,6 +46,8 @@ We provide workflows to speed up your program, including:
 
 ## Get started
 
+Hi, explorer, start our web3 adventure 🌻:
+
 <details>
   <summary>🔥 Build a new club</summary>
 
