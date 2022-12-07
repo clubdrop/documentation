@@ -31,17 +31,17 @@ We provide workflows to speed up your program, including:
 
 | Features       | NFT       | Token     |
 | -----------    | --------- | ----------|
-| Standard       | ✅        | ✅       |
-| Drop           | ✅        | ✅       |
-| Lazy mint      | ✅        | ❌       |
-| Snapshot       | ✅        | ✅       |
-| Vote           | ❌        | ✅       |
-| Royalties      | ✅        | ❌       |
-| Activity Phase | ✅        | ✅       |
-| White-list     | ✅        | ✅       |
-| Split          | ❌        | ✅       |
-| Collection     | ✅        | ❌       |
-| Delayed Reveal | ✅        | ❌       |
+| Standard       | ✔️        | ✔️       |
+| Drop           | ✔️        | ✔️       |
+| Lazy mint      | ✔️        | ❌       |
+| Snapshot       | ✔️        | ✔️       |
+| Vote           | ❌        | ✔️       |
+| Royalties      | ✔️        | ❌       |
+| Activity Phase | ✔️        | ✔️       |
+| White-list     | ✔️        | ✔️       |
+| Split          | ❌        | ✔️       |
+| Collection     | ✔️        | ❌       |
+| Delayed Reveal | ✔️        | ❌       |
 
 
 ## Get started
@@ -61,7 +61,7 @@ The 1st step you need to get a new club, the system offering a free sub domain f
 </details>
 
 <details>
-  <summary>🐣 Quest</summary>
+  <summary>✨ Quest</summary>
 
 The 1st step you need to get a new club, the system offering a free sub domain for your club **LANDING PAGE**. You may also take a few steps to setup `contracts`, `events`, `quests`, `rewards`and more.
 </details>
