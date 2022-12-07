@@ -71,3 +71,7 @@ Clubline enable powered messaging where communities and projects can connect, bu
 | Delayed Reveal | ✔️        | ❌       |
 
 ## Mission & Vision
+
+ClubDrop continues to provide an open, shared infrastructure for brand and program teams to eliminate friction, increase conversions, achieve scale, reduce costs, and evolve marketing networks from a user-attention-based business model to a member-based business model.
+
+Any brand or program can start their Club promotions and Loyalty Rewards programs with ClubDrop, enabling frictionless Memberships, accurate NFT special visits, and high-converting event engagement.
