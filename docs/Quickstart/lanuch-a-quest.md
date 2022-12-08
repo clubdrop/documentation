@@ -31,3 +31,17 @@ Feel free to play around and edit this post as much you like.
 ```
 
 A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+<Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
