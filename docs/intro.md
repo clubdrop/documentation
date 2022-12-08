@@ -59,6 +59,8 @@ Clubline enable powered messaging where communities and projects can connect, bu
 
 ## Features supported
 
+<div className='badge badge--primary heading-badge'>Available on: Clubdrop</div>
+
 | Features       | NFT       | Token     |
 | -----------    | --------- | ----------|
 | Standard       | ✔️        | ✔️       |

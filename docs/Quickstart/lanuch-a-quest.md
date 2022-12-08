@@ -3,8 +3,6 @@ sidebar_position: 3
 ---
 # 🎉 Lanuch a quest
 
-<div className='badge badge--primary heading-badge'>Available on: Cloud</div>
-
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
 ## Create your first Post
