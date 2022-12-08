@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# 🧑🏾‍🤝‍🧑🏻Connect a community
+# 🧑🏾‍🤝‍🧑🏻 Connect a community
 
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 

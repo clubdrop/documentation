@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# 🥂Into the ClubDrop
+# 🥂 Into the ClubDrop
 :::tip Welcome to the clubdrop!
 Here you will find guides, references and resources that will help you lanuch **web3** project, no previous blockchain experience needed.
 :::
