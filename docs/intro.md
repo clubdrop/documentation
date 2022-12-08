@@ -12,11 +12,11 @@ As a nft service provider, we are focusing on develop framework and providing tr
 
 We provide workflows to speed up your program, including:
 
-- **Club-sites** host your free landing page with mint button.
+- **Club-sites** - host your free landing page with mint button.
 
-- **Dropkits** creat the custom contracts of your web3 functionality.
+- **Dropkits** - creat the custom contracts of your web3 functionality.
 
-- **Dashboards** to manage your club campaigns, contracts setting, team permissions, revenue streams, and data analytics.
+- **Dashboards** - manage your club campaigns, contracts setting, team permissions, revenue streams, and data analytics.
 
 ## Get started
 
@@ -25,7 +25,8 @@ Hi, explorer, start our web3 adventure 🌻:
 <details>
   <summary>🔥 Build a new club</summary>
 
-Convert your design into a launch ready website. The first step you need to get a new club, the system offering **Frontend** with a free sub domain for your web3 app.  You may also take a few steps to setup `contracts`, `campaigns`, `quests`, `rewards`and more.
+Convert your design into a launch ready website. The first step you need to get a new club, the system offering **Frontend** with a free sub domain for your web3 app.  You may also take a few steps to setup `contracts`, `campaigns`, `quests`, `rewards`and more. 
+Here we go and [start your first club](quickstart/build-a-club.md)!
 </details>
 
 <details>
