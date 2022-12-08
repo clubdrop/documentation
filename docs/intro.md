@@ -16,7 +16,7 @@ We provide workflows to speed up your program, including:
 
 - **Dropkits** - creat the custom contracts of your web3 functionality.
 
-- **Dashboards** - manage your club campaigns, contracts setting, team permissions, revenue streams, and data analytics.
+- **Dashboards** - manage your club campaigns, contracts setting, team permissions, revenue streams, and on-chain analysis.
 
 ## Get started
 
