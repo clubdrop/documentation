@@ -42,103 +42,14 @@ A new blog post is now available at [http://localhost:3000/blog/greetings](http:
   <div className='card'>
     <h4>Basics</h4>
     <p>You can get up and running with Hasura in minutes by following our Getting Started guide.</p>
-    <VersionedLink to='/getting-started/index'>
+    <VersionedLink to='/Quickstart/build-a-club.md'>
       See Getting Started <ArrowRight className='arrow' />
     </VersionedLink>
   </div>
   <div className='card'>
     <h4>GraphQL API</h4>
     <p>We provide an instant GraphQL API by generating your GraphQL schema for you based on your data.</p>
-    <VersionedLink to='/schema/index'>
+    <VersionedLink to='/Quickstart/build-a-club.md'>
       See Schema <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Business Logic</h4>
-    <p>
-      With built-in extensibility, Hasura can handle business logic via Actions, Remote Schemas, and Event Triggers.
-    </p>
-    <VersionedLink to='/faq/index/#faq-business-logic'>
-      See Business Logic <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Auth</h4>
-    <p>
-      By using role-based authorization and industry-standard authentication patterns, you can secure your app and your
-      data with ease.
-    </p>
-    <VersionedLink to='/auth/index'>
-      See Auth <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Enterprise</h4>
-    <p>Deploy an enterprise-ready instance of Hasura in minutes using your container platform of choice.</p>
-    <VersionedLink to='/enterprise/index'>
-      See Hasura Enterprise <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Deployments</h4>
-    <p>
-      Whether you're using Hasura Cloud or one of your favorite one-click services, Hasura's flexibility makes it quick
-      to deploy.
-    </p>
-    <VersionedLink to='/deployment/deployment-guides/index'>
-      See Deployment Guides <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Learn</h4>
-    <p>Our Learn team is hard at work creating courses to help developers learn more about Hasura and GraphQL.</p>
-    <Link to='https://hasura.io/learn/' target='_blank'>
-      See Courses <ArrowRight className='arrow' />
-    </Link>
-  </div>
-  <div className='card'>
-    <h4>Cloud Projects</h4>
-    <p>
-      Hasura Cloud gives you a fully managed, production ready GraphQL API as a service to help you build modern apps
-      faster.
-    </p>
-    <VersionedLink to='/getting-started/getting-started-cloud/'>
-      See Getting Started with Cloud <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Observability</h4>
-    <p>
-      For enhanced reliability and performance, Hasura Cloud offers easy-to-integrate metrics and compatibility with
-      different common services.
-    </p>
-    <VersionedLink to='/observability/index'>
-      See Metrics <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Query Response Caching</h4>
-    <p>
-      For frequently executed queries, Hasura Cloud offers caching to improve performance and your users' experience.
-    </p>
-    <VersionedLink to='/queries/response-caching'>
-      See Query Response Caching <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>Regression Tests</h4>
-    <p>
-      With regression tests, Hasura Cloud provides you a comprehensive test bench which is executable on any GraphQL
-      Engine instance.
-    </p>
-    <VersionedLink to='/deployment/hasura-cloud/regression-tests'>
-      See Regression Tests <ArrowRight className='arrow' />
-    </VersionedLink>
-  </div>
-  <div className='card'>
-    <h4>API Security</h4>
-    <p>Keep your API secure and healthy with tools like API limits, allow limits, multiple secrets, and more.</p>
-    <VersionedLink to='/security/index'>
-      See Security <ArrowRight className='arrow' />
     </VersionedLink>
   </div>
