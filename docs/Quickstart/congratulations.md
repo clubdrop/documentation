@@ -33,3 +33,11 @@ You have just learned the **basics of Clubdrop** and Let's try more advanced **f
   }}>
   Open Installation Guide
 </a>
+
+<a href="https://discord.gg/aCsmEV5RgA">
+  <img style={{borderRadius: 5}} title="Discord" src="https://discordapp.com/api/guilds/972958686051962910/widget.png?style=banner2" />
+</a>
+
+<ReferenceLink href="Quickstart/build-a-club">📑 build a club</ReferenceLink>
+
+<ReferenceLink href="tutorial-extras/manage-docs-versions">💻 manage docs versions</ReferenceLink>
