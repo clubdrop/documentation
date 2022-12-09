@@ -27,7 +27,7 @@ sidebar_position: 1
 <i>Join the discord! — Don't forget to star the repo if you are enjoying the project!</i>
 </p>
 <p align="center">
-<a href="https://www.google.com.hk/"><strong> Demo ↗️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Install ➡️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Modules 🧩 </strong></a> • <a href="[./Quickstart/build-a-club.md](https://www.google.com.hk/)"><strong> Customization 🎨 </strong></a>
+<a href="https://www.google.com.hk/"><strong> Demo ↗️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Install ➡️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Modules 🧩 </strong></a> • <a href="https://www.google.com.hk/"><strong> Customization 🎨 </strong></a>
 </p>
 
 ---
