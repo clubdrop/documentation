@@ -21,3 +21,15 @@ You have just learned the **basics of Clubdrop** and Let's try more advanced **f
 [Setup Tool](https://setup-tool.zeppelin.gg)   <br/>
 [Handbook](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
 **Credit(s):** @106391128718245888 @347727875266576395
+
+<a
+  href="https://forums.unraid.net/topic/38582-plug-in-community-applications/"
+  style={{
+    backgroundColor: 'var(--ifm-color-primary)',
+    borderRadius: '2px',
+    color: '#fff',
+    padding: '0.4rem 2rem',
+    textDecoration: 'none'
+  }}>
+  Open Installation Guide
+</a>
