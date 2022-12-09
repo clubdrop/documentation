@@ -1,23 +1,22 @@
 ---
 sidebar_position: 1
 ---
-<!-- Project Title -->
 <p align="center">
   <img width={150} src="/img/logo.png" />
 </p>
 
-<h1 align="center">CLUBDROP</h1>
+<h1 align="center">🥂 INTO THE CLUBDROP</h1>
 
 <!-- Badges -->
 <p align="center">
-  <img className="me-shield" src="https://img.shields.io/github/stars/ajnart/homarr?label=%E2%AD%90%20Stars&style=flat-square?branch=master&kill_cache=1%22" />
-  <a href="https://github.com/ajnart/homarr/releases/latest">
-    <img className="me-shield" alt="Latest Release (Semver)" src="https://img.shields.io/github/v/release/ajnart/homarr?label=%F0%9F%9A%80%20Release" />
+  <img className="me-shield" src="https://img.shields.io/amo/stars/Stars?color=yellow&label=%F0%9F%92%97Stars&logo=clubdrop&logoColor=green" />
+  <a href="https://github.com">
+    <img className="me-shield" alt="Latest Release (Semver)" src="https://img.shields.io/amo/v/Release?color=blue&label=%F0%9F%9A%80Release&logo=clubdrop&logoColor=green" />
   </a>
-  <a href="https://github.com/ajnart/homarr/actions/workflows/docker.yml">
+  <a href="https://github.com">
     <img className="me-shield" title="Docker CI Status" src="https://github.com/ajnart/homarr/actions/workflows/docker.yml/badge.svg" alt="CI Status" />
   </a>
-  <a href="https://discord.gg/aCsmEV5RgA">
+  <a href="https://discord.gg">
     <img title="Discord" src="https://discordapp.com/api/guilds/972958686051962910/widget.png?style=shield" />
   </a>
 </p>
@@ -31,10 +30,7 @@ sidebar_position: 1
 </p>
 
 ---
-
-<!-- Homarr Description -->
-
-# 🥂 Into the ClubDrop
+# Introduction
 :::tip Welcome to the clubdrop!
 Here you will find guides, references and resources that will help you lanuch **web3** project, no previous blockchain experience needed.
 :::
