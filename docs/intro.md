@@ -28,7 +28,7 @@ hide_title: true
 <i>Join the discord! — Don't forget to star the repo if you are enjoying the project!</i>
 </p>
 <p align="center">
-<a href="https://www.google.com.hk/"><strong> Demo ↗️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Install ➡️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Modules 🧩 </strong></a> • <a href="https://www.google.com.hk/"><strong> Customization 🎨 </strong></a>
+<a href="https://www.google.com.hk/"><strong> Home ↗️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Quickstart ➡️ </strong></a> • <a href="https://www.google.com.hk/"><strong> Modules 🧩 </strong></a> • <a href="https://www.google.com.hk/"><strong> Customization 🎨 </strong></a>
 </p>
 
 ---
