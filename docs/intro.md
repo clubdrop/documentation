@@ -1,6 +1,39 @@
 ---
 sidebar_position: 1
 ---
+<!-- Project Title -->
+<p align="center">
+  <img width={150} src="/img/logo.png" />
+</p>
+
+<h1 align="center">CLUBDROP</h1>
+
+<!-- Badges -->
+<p align="center">
+  <img className="me-shield" src="https://img.shields.io/github/stars/ajnart/homarr?label=%E2%AD%90%20Stars&style=flat-square?branch=master&kill_cache=1%22" />
+  <a href="https://github.com/ajnart/homarr/releases/latest">
+    <img className="me-shield" alt="Latest Release (Semver)" src="https://img.shields.io/github/v/release/ajnart/homarr?label=%F0%9F%9A%80%20Release" />
+  </a>
+  <a href="https://github.com/ajnart/homarr/actions/workflows/docker.yml">
+    <img className="me-shield" title="Docker CI Status" src="https://github.com/ajnart/homarr/actions/workflows/docker.yml/badge.svg" alt="CI Status" />
+  </a>
+  <a href="https://discord.gg/aCsmEV5RgA">
+    <img title="Discord" src="https://discordapp.com/api/guilds/972958686051962910/widget.png?style=shield" />
+  </a>
+</p>
+
+<!-- Links -->
+<p align="center">
+<i>Join the discord! — Don't forget to star the repo if you are enjoying the project!</i>
+</p>
+<p align="center">
+<a href="https://homarr.ajnart.fr/"><strong> Demo ↗️ </strong></a> • <a href="/docs/introduction/installation"><strong> Install ➡️ </strong></a> • <a href="/docs/modules/"><strong> Modules 🧩 </strong></a> • <a href="/docs/customizations/"><strong> Customization 🎨 </strong></a>
+</p>
+
+---
+
+<!-- Homarr Description -->
+
 # 🥂 Into the ClubDrop
 :::tip Welcome to the clubdrop!
 Here you will find guides, references and resources that will help you lanuch **web3** project, no previous blockchain experience needed.
