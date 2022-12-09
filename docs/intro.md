@@ -1,5 +1,7 @@
 ---
+title: Introduction
 sidebar_position: 1
+hide_title: true
 ---
 <p align="center">
   <img width={150} src="/img/logo.png" />
