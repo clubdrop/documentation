@@ -2,6 +2,8 @@
 title: Introduction
 sidebar_position: 1
 hide_title: true
+tags:
+  - Quickstart
 ---
 <p align="center">
   <img width={150} src="/img/logo.png" />
@@ -111,6 +113,3 @@ Clubline enable powered messaging where communities and projects can connect, bu
 ClubDrop continues to provide an open, shared infrastructure for brand and program teams to eliminate friction, increase conversions, achieve scale, reduce costs, and evolve marketing networks from a user-attention-based business model to a member-based business model.
 
 Any brand or program can start their Club promotions and Loyalty Rewards programs with ClubDrop, enabling frictionless Memberships, accurate NFT special visits, and high-converting event engagement.
-
-
-
