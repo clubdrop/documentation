@@ -16,7 +16,7 @@ hide_title: true
     <img className="me-shield" alt="Latest Release (Semver)" src="https://img.shields.io/amo/v/Release?color=blue&label=%F0%9F%9A%80Release&logo=clubdrop&logoColor=green" />
   </a>
   <a href="https://github.com">
-    <img className="me-shield" title="Docker CI Status" src="https://github.com/ajnart/homarr/actions/workflows/docker.yml/badge.svg" alt="CI Status" />
+    <img className="me-shield" title="Contracts audit" src="https://img.shields.io/badge/Contract-%E2%9C%94%EF%B8%8F%20Audit-brightgreen" alt="Contracts audit" />
   </a>
   <a href="https://discord.gg">
     <img title="Discord" src="https://discordapp.com/api/guilds/972958686051962910/widget.png?style=shield" />
