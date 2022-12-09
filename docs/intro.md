@@ -32,7 +32,7 @@ hide_title: true
 </p>
 
 ---
-# Introduction
+# 📚 Introduction
 :::tip Welcome!
 Here you will find guides, references and resources that will help you lanuch **web3** project, no previous blockchain experience needed.
 :::
