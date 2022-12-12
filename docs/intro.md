@@ -94,7 +94,7 @@ Clubline enable powered messaging where communities and projects can connect, bu
 
 <div className='badge badge--primary heading-badge'>Available on: Clubdrop</div>
 
-| Features       | NFT       | Token     |
+| List           | NFT       | Token     |
 | -----------    | --------- | ----------|
 | Standard       | ✔️        | ✔️       |
 | Drop           | ✔️        | ✔️       |
