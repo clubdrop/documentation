@@ -41,7 +41,7 @@ Here you will find guides, references and resources that will help you lanuch **
 
 ⚡️ Clubdrop is a <code>no-code</code> NFT infrastructure platform that enables users to easily integrate web3 functionality into their applications. NFTs are digital assets that are unique and cannot be replicated, and they are often used in the world of blockchain and cryptocurrency. By using Clubdrop, creators bring their NFT-based applications to market in minutes instead of months. Clubdrop also provides tools for managing and tracking interactions with customers and potential customers, making it a valuable resource for anyone looking to build an NFT-based application.
 
-As a nft service provider, we are focusing on develop framework and providing true ownership of smart contracts by dropkit. The tool that simplify the process of launching NFT to the point where grandmothers can use it. Anyone or brands can quickly build web3 applications through clubdrop and unlock the keys to the new economy.
+As a provider of NFT services, our focus is on developing a framework that provides true ownership of smart contracts through Dropkit. This tool simplifies the process of launching NFTs to the point where even grandmothers can use it. Anyone, including brands, can quickly build web3 applications through Clubdrop and unlock the keys to the new economy.
 
 We provide workflows to speed up your program, including:
 
