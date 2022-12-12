@@ -50,7 +50,7 @@ We provide workflows to speed up your program, including:
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="#"
           class="card-title card-link stretched-link"
         >
           <h2>🌈 Club-sites</h2>
@@ -62,7 +62,7 @@ We provide workflows to speed up your program, including:
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/nodes/introduction"
+          href="#"
           class="card-title card-link stretched-link"
         >
           <h2>🛠 Dropkits</h2>
@@ -74,12 +74,12 @@ We provide workflows to speed up your program, including:
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/faq"
+          href="#"
           class="card-title card-link stretched-link"
         >
           <h2>👀 Dashboards</h2>
         </a>
-        <p class="card-text">manage your club campaigns, contracts setting, team permissions, revenue streams, and on-chain analysis.
+        <p class="card-text">Manage your club campaigns, contracts setting, team permissions, revenue streams, and on-chain analysis.
         </p>
       </div>
     </div>
