@@ -45,11 +45,46 @@ As a provider of NFT services, our focus is on developing a framework that provi
 
 We provide workflows to speed up your program, including:
 
-- **Club-sites** - host your free landing page with mint button.
-
-- **Dropkits** - creat the custom contracts of your web3 functionality.
-
-- **Dashboards** - manage your club campaigns, contracts setting, team permissions, revenue streams, and on-chain analysis.
+<div class="docs-card-container">
+  <div class="row row-cols-1 row-cols-md-2a g-3">
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>🌈 Club-sites</h2>
+        </a>
+        <p class="card-text">Host your free landing page with mint button
+        </p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/nodes/introduction"
+          class="card-title card-link stretched-link"
+        >
+          <h2>🛠 Dropkits</h2>
+        </a>
+        <p class="card-text">Creat the custom contracts of your web3 functionality.
+        </p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/faq"
+          class="card-title card-link stretched-link"
+        >
+          <h2>👀 Dashboards</h2>
+        </a>
+        <p class="card-text">manage your club campaigns, contracts setting, team permissions, revenue streams, and on-chain analysis.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Get started
 

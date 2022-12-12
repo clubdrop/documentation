@@ -26,7 +26,9 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  plugins: [
+    'docusaurus-plugin-sass'
+  ],
   presets: [
     [
       'classic',
@@ -38,7 +40,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/clubdrop/documentation/tree/main/',
-            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -46,13 +48,15 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/clubdrop/documentation/tree/main/',
-            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
+   
+
   ],
 
   themeConfig:
@@ -82,24 +86,24 @@ const config = {
       algolia: {
         // The application ID provided by Algolia $YOUR_APP_ID
         appId: '30QCQR317O',
-  
+
         // Public API key: it is safe to commit it; $YOUR_SEARCH_API_KEY
         apiKey: '5aff43586b8b074e22997f5673305208',
         //$YOUR_INDEX_NAME
         indexName: 'Clubdrop',
-  
+
         // Optional: see doc section below
         contextualSearch: true,
-  
+
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
         externalUrlRegex: 'external\\.com|domain\\.com',
-  
+
         // Optional: Algolia search parameters
         searchParameters: {},
-  
+
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
-  
+
         //... other Algolia params
       },
       footer: {
