@@ -11,6 +11,8 @@ tags:
 
 <h1 align="center">🥂 INTO THE CLUBDROP</h1>
 
+<h3 align="center">Web3 one-stop solution paltform</h1>
+
 <!-- Badges -->
 <p align="center">
   <img className="me-shield" src="https://img.shields.io/amo/stars/Stars?color=yellow&label=%F0%9F%92%97Stars&logo=clubdrop&logoColor=green" />
@@ -36,14 +38,21 @@ tags:
 ---
 # 📚 Introduction
 :::tip Welcome!
-Here you will find guides, references and resources that will help you lanuch **web3** project, **no previous blockchain experience needed**.
+Here are some resources and tools available to help you get started with **web3**,these should provide a good foundation for you to build upon, **no previous blockchain experience needed**.
 :::
 
-⚡️ Clubdrop is a <code>no-code</code> NFT infrastructure platform that enables users to easily integrate web3 functionality into their applications. NFTs are digital assets that are unique and cannot be replicated, and they are often used in the world of blockchain and cryptocurrency. By using Clubdrop, creators bring their NFT-based applications to market in minutes instead of months. Clubdrop also provides tools for managing and tracking interactions with customers and potential customers, making it a valuable resource for anyone looking to build an NFT-based application.
+⚡️**ClubDrop** is a comprehensive solution for web3 community marketing and management. It assists projects at various stages in developing effective tokenization business strategies, reaching potential users through multiple channels, and helping crypto enterprises expand high-impact communities.
 
-As a provider of NFT services, our focus is on developing a framework that provides true ownership of smart contracts through Dropkit. This tool simplifies the process of launching NFTs to the point where even grandmothers can use it. Anyone, including brands, can quickly build web3 applications through Clubdrop and unlock the keys to the new economy.
+We are helping businesses, organizations, or users who are entering web3 to solve the following problems 👇:
 
-We provide workflows to speed up your program, including:
+- Launching tokenization businesses for companies/brands/creators.
+- Lack of experience in web3 marketing and customer acquisition.
+- No experience in web3 project management and community operations.
+- Web3 products that are in development and want to increase their brand exposure and reach potential new users.
+- Struggling to increase the loyalty and influence of their community users.
+- Lacking tools for finely screening users and reaching advanced members.
+
+As a provider of web3 marketing services, our focus is on creating a framework that gives true ownership of smart contracts through **Dropkit**. This tool makes it easy for anyone, brands and individuals can quickly build web3 applications using Clubdrop and unlock the potential of the new economy.
 
 <div class="docs-card-container">
   <div class="row row-cols-1 row-cols-md-2a g-3">
@@ -53,9 +62,9 @@ We provide workflows to speed up your program, including:
           href="#"
           class="card-title card-link stretched-link"
         >
-          <h2>🌈 Club-sites</h2>
+          <h2>🛠 Easily publish</h2>
         </a>
-        <p class="card-text">Host your free landing page with mint button
+        <p class="card-text">With a simple publishing process and clear publishing guidelines, we help you quickly distribute your work to players.
         </p>
       </div>
     </div>
@@ -65,9 +74,9 @@ We provide workflows to speed up your program, including:
           href="#"
           class="card-title card-link stretched-link"
         >
-          <h2>🛠 Dropkits</h2>
+          <h2>🌈 Commercialize</h2>
         </a>
-        <p class="card-text">Creat the custom contracts of your web3 functionality.
+        <p class="card-text">Full commercialization tool support empowers every creative and imaginative author.
         </p>
       </div>
     </div>
@@ -77,9 +86,9 @@ We provide workflows to speed up your program, including:
           href="#"
           class="card-title card-link stretched-link"
         >
-          <h2>👀 Dashboards</h2>
+          <h2>👀 Operational support</h2>
         </a>
-        <p class="card-text">Manage your club campaigns, contracts setting, team permissions, revenue streams, and on-chain analysis.
+        <p class="card-text">With various forms of promotion activities and rich completion function guidelines, we help you with your efforts.
         </p>
       </div>
     </div>
@@ -88,7 +97,7 @@ We provide workflows to speed up your program, including:
 
 ## Get started
 
-Hi, explorer, start our web3 adventure 🌻:
+Hi, explorer, start our web3 adventure 🌻, go and speed up your program.:
 
 <details>
   <summary>🔥 Build a new club</summary>
