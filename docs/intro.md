@@ -41,9 +41,9 @@ tags:
 Here are some resources and tools available to help you get started with **web3**,these should provide a good foundation for you to build upon, **no previous blockchain experience needed**.
 :::
 
-⚡️**ClubDrop** is a comprehensive solution for web3 community marketing and management. It assists projects at various stages in developing effective tokenization business strategies, reaching potential users through multiple channels, and helping crypto enterprises expand high-impact communities.
+⚡️ClubDrop is a comprehensive solution for web3 community marketing and management. It assists projects at various stages in developing effective tokenization business strategies, reaching potential users through multiple channels, and helping crypto enterprises expand high-impact communities.
 
-We are helping businesses, organizations, or users who are entering web3 to solve the following problems 👇:
+We help businesses, organizations, or users who are entering web3 to solve the following problems 👇:
 
 - Launching tokenization businesses for companies/brands/creators.
 - Lack of experience in web3 marketing and customer acquisition.
@@ -52,7 +52,7 @@ We are helping businesses, organizations, or users who are entering web3 to solv
 - Struggling to increase the loyalty and influence of their community users.
 - Lacking tools for finely screening users and reaching advanced members.
 
-As a provider of web3 marketing services, our focus is on creating a framework that gives true ownership of smart contracts through **Dropkit**. This tool makes it easy for anyone, brands and individuals can quickly build web3 applications using Clubdrop and unlock the potential of the new economy.
+As a provider of web3 marketing services, our focus is on creating a framework that gives true ownership of smart contracts through **Dropkit**. The tool makes it easy for anyone, brands and individuals can quickly build web3 applications using Clubdrop and unlock the potential of the new economy.
 
 <div class="docs-card-container">
   <div class="row row-cols-1 row-cols-md-2a g-3">
