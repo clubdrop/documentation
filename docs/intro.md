@@ -62,7 +62,7 @@ As a provider of web3 marketing services, our focus is on creating a framework t
           href="#"
           class="card-title card-link stretched-link"
         >
-          <h2>🛠 Easily publish</h2>
+          <h2>🛠Easily publish</h2>
         </a>
         <p class="card-text">With a simple publishing process and clear publishing guidelines, we help you quickly distribute your work to players.
         </p>
@@ -74,7 +74,7 @@ As a provider of web3 marketing services, our focus is on creating a framework t
           href="#"
           class="card-title card-link stretched-link"
         >
-          <h2>🌈 Commercialize</h2>
+          <h2>🌈Commercialize</h2>
         </a>
         <p class="card-text">Full commercialization tool support empowers every creative and imaginative author.
         </p>
@@ -86,7 +86,7 @@ As a provider of web3 marketing services, our focus is on creating a framework t
           href="#"
           class="card-title card-link stretched-link"
         >
-          <h2>👀 Operational support</h2>
+          <h2>👀Operational support</h2>
         </a>
         <p class="card-text">With various forms of promotion activities and rich completion function guidelines, we help you with your efforts.
         </p>
