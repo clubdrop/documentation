@@ -11,7 +11,7 @@ tags:
 
 <h1 align="center">🥂 INTO THE CLUBDROP</h1>
 
-<h3 align="center">Web3 one-stop solution paltform</h1>
+<h3 align="center">Web3 one-stop solution paltform</h3>
 
 <!-- Badges -->
 <p align="center">
