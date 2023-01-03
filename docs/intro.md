@@ -22,9 +22,13 @@ tags:
   <a href="https://github.com">
     <img className="me-shield" title="Contracts audit" src="https://img.shields.io/badge/Contract-%E2%9C%94%EF%B8%8F%20Audit-brightgreen" alt="Contracts audit" />
   </a>
+  <a href="https://github.com/clubdrop/documentation/pull/1">
+    <img className="me-shield" title="Contracts audit" src="https://badgen.net/github/dependabot/ubuntu/yaru" alt="Contracts audit" />
+  </a>
   <a href="https://discord.gg">
     <img title="Discord" src="https://discordapp.com/api/guilds/972958686051962910/widget.png?style=shield" />
   </a>
+  
 </p>
 
 <!-- Links -->
