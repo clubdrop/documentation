@@ -78,7 +78,7 @@ As a provider of web3 marketing services, our focus is on creating a framework t
           href="#"
           class="card-title card-link stretched-link"
         >
-          <h2>🌈Commercialize</h2>
+          <h2>🌈Rapid commercialization</h2>
         </a>
         <p class="card-text">Full commercialization tool support empowers every creative and imaginative author.
         </p>
