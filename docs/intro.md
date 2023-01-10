@@ -92,7 +92,7 @@ As a provider of web3 marketing services, our focus is on creating a framework t
         >
           <h2>👀Operational support</h2>
         </a>
-        <p class="card-text">With various forms of promotion activities and rich completion function guidelines, we help you with your efforts.
+        <p class="card-text">Various promotional activities, rich complementary functionality guides, thriving communities made easy.
         </p>
       </div>
     </div>
